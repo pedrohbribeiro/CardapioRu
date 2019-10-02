@@ -1,4 +1,4 @@
-package com.example.cardapio;
+package cf.pedroribeiro.cardapioru;
 
 import org.junit.Test;
 

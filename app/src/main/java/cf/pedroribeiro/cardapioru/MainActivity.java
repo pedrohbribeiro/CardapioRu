@@ -1,4 +1,4 @@
-package com.example.cardapio;
+package cf.pedroribeiro.cardapioru;
 
 import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;

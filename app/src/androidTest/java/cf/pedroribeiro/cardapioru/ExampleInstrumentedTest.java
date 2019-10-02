@@ -1,4 +1,4 @@
-package com.example.cardapio;
+package cf.pedroribeiro.cardapioru;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.cardapio", appContext.getPackageName());
+        assertEquals("com.example.cf.pedroribeiro.cardapioru", appContext.getPackageName());
     }
 }
